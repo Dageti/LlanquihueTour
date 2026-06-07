@@ -22,7 +22,7 @@ public class Main {
 			 * Creando Ruts necesarios para composición y usar la excepción personalizada
 			 */
 			Rut rut1 = new Rut("1234508-k");
-			Rut rut2 = new Rut("84950604-0");
+			Rut rut2 = new Rut("84950234-0");
 			Rut rut3 = new Rut("23556233-3");
 
 			/**

@@ -1,7 +1,7 @@
 package Model;
 
 /**
- * Modelado de clase Direccion, atributos numero, calle y ciudad.
+ * Modelado de clase Direccion, atributos número, calle y ciudad.
  */
 public class Direccion {
 	private int numero;
